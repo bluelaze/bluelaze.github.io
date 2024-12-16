@@ -2,15 +2,15 @@
 home: true
 icon: home
 title: 主页
-heroText: 项目名称
+heroText: BKGalMgr
 heroAlt: BK
-tagline: 你可以在这里放置或是整个项目的描述。
+tagline: Galgame本地管理软件
 article: false
 timeline: false
 actions:
   - text: 指南
     icon: lightbulb
-    link: ./guide/
+    link: ./guide/00-前言.html
     type: primary
 
 highlights:

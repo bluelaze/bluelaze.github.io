@@ -40,7 +40,7 @@ export default hopeTheme({
     // intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      BiliBili: "https://space.bilibili.com/19776431",
       // Bitbucket: "https://example.com",
       // Dingding: "https://example.com",
       // Discord: "https://example.com",

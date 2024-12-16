@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "BKGalMgr",
+  description: "BKGalMgr——Galgame本地管理软件的官方网站",
 
   theme,
 

@@ -5,7 +5,6 @@ title: 梦游记
 icon: home
 welcome: ''
 name: 梦游记
-avatarAt: ''
 bgImage: https://bkmemory.xyz/img/top_img.png
 article: false
 timeline: false
