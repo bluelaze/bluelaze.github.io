@@ -25,7 +25,7 @@ highlights:
       - title: 版本管理
         icon: code-branch
         details: 可通过源，本地化，构建不同的游戏版本，灵活管理
-        link: ./guide/10-添加游戏.html
+        link: ./guide/10-管理游戏.html
 
       - title: 存档备份、还原
         icon: floppy-disk
@@ -35,12 +35,12 @@ highlights:
       - title: 游戏数据保存
         icon: images
         details: 除游戏元数据外，还可保存封面，SPECIAL，角色立绘等
-        link: ./guide/10-添加游戏.html
+        link: ./guide/10-管理游戏.html
 
       - title: 图片浏览
         icon: image
         details: 内置简单的图片浏览，方便查看保存的游戏图片
-        link: ./guide/10-添加游戏.html
+        link: ./guide/10-管理游戏.html
 
       - title: 游戏迁移
         icon: clone
