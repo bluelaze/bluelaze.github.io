@@ -3,6 +3,8 @@ home: true
 icon: home
 title: 主页
 heroText: BKGalMgr
+heroImage: /assets/images/heroImage.png
+heroImageDark: /assets/images/heroImageDark.png
 heroAlt: BK
 tagline: Galgame本地管理软件
 article: false
