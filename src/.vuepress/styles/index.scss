@@ -39,6 +39,14 @@
 //   text-align: center;
 // }
 
+
+[vp-content].vp-portfolio-content h3 {
+  --header-underline: none;
+  align-self: baseline;
+  border-bottom : 1px solid var(--vp-c-gutter, #e2e2e3);
+  font-size: 1.35rem;
+}
+
 .catalog-display-container {
   overflow: visible auto;
 
