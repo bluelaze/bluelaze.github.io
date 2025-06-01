@@ -5,6 +5,8 @@ title: 主页
 heroText: BKGalMgr
 heroImage: /assets/images/heroImage.png
 heroImageDark: /assets/images/heroImageDark.png
+heroImageStyle:
+  min-height: 400px
 heroAlt: BK
 tagline: Galgame本地管理软件
 article: false
