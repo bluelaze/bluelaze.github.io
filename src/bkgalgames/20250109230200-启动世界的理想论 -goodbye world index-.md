@@ -6,7 +6,7 @@ tags:
 categories:
   - Galgame
 date: 2025-01-09 23:02:00 +8
-updated: 202508-26 22:39:18 +8
+updated: 2025-08-26 22:39:18 +8
 keywords:
 description:
 top_img:
